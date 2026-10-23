@@ -169,20 +169,6 @@
         "Descriptor": "CN/descriptors/CN_14006085.json.gz",
         "DescriptorSha256": "3940e3e25a46484e72f2c418ca60427c391fc5882fc888d98e3edde0ac915943",
         "PublishedAt": "2026-10-23T13:49:23.7118913Z"
-      },
-      {
-        "Revision": 14101351,
-        "GameVersion": "2026.10.06.0000.0000",
-        "Parent": 14006085,
-        "Algo": 2,
-        "Status": "confirmed",
-        "Missing": 0,
-        "Reporters": 0,
-        "Table": "CN/tables/CN_14101351.json",
-        "TableSha256": "b6ead4f408b9b485fe550572ce89c8825126d7a01171e5e1e292d9acc3a4759b",
-        "Descriptor": "CN/descriptors/CN_14101351.json.gz",
-        "DescriptorSha256": "09abd522051f255d77ba2080e7cbff7bfd5c0ba08b2fa8da2378285e30caf8e8",
-        "PublishedAt": "2026-10-23T13:49:23.7330626Z"
       }
     ]
   }
