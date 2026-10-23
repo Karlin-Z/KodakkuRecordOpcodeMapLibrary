@@ -11,7 +11,7 @@
         "Missing": 0,
         "Reporters": 0,
         "Table": "CN/tables/CN_11384240.json",
-        "TableSha256": "6dd36395eeede36ab32797a9f33998067c8a7ce514b261c2214d49ca0a9b033c",
+        "TableSha256": "520c73640e971de73df30ee0ade5e2537a3fad999d1dab959dac79fb20a78728",
         "Descriptor": "CN/descriptors/CN_11384240.json.gz",
         "DescriptorSha256": "ddc748e7e8b0834045ec84ee27f48b04b33bda3b15875fb8f1712de7e9bc03a5",
         "PublishedAt": "2026-10-23T13:49:23.4840029Z"
@@ -25,7 +25,7 @@
         "Missing": 11,
         "Reporters": 0,
         "Table": "CN/tables/CN_11921624.json",
-        "TableSha256": "d98cd0e11bc2a13317455957fe25dc9765bd4ee470c0103ad27b5a9dc360eea0",
+        "TableSha256": "7ee33e1a55e81ab30f8759909b648257c261f38f5f94f36b5fa58ae6e0802f77",
         "Descriptor": "CN/descriptors/CN_11921624.json.gz",
         "DescriptorSha256": "d8cf3034f9b5f247e10b3595585ec98c47ddcf12bf48812fd220c9bc2eb9381c",
         "PublishedAt": "2026-10-23T13:49:23.5072656Z"
@@ -39,7 +39,7 @@
         "Missing": 6,
         "Reporters": 0,
         "Table": "CN/tables/CN_12277495.json",
-        "TableSha256": "5de8a1c4d7a8713ce4faee487e8afd4688368288df65c9b7410431a347a76221",
+        "TableSha256": "56906344c819a2d7ca64b608698119b7b2cc67d64cf55c2df321f265c3a6e8cb",
         "Descriptor": "CN/descriptors/CN_12277495.json.gz",
         "DescriptorSha256": "f64308768c0ec4fdda2d81b45a5730331420ddfa1b15579594a95eabc2f08684",
         "PublishedAt": "2026-10-23T13:49:23.5279656Z"
@@ -53,7 +53,7 @@
         "Missing": 2,
         "Reporters": 0,
         "Table": "CN/tables/CN_12720871.json",
-        "TableSha256": "6d6e293395b88f2340b9b2abf862dafb7a6633739bb13e11b6a27b58a45f5f05",
+        "TableSha256": "ad907eac1e62160297a787fad8e9c1dc670d026be28220adf85bf3d6caa337f7",
         "Descriptor": "CN/descriptors/CN_12720871.json.gz",
         "DescriptorSha256": "9a5d2430a7305e12b0206f88c83eb36d1a9f46fc1bed9319a09f5e2ee11290a9",
         "PublishedAt": "2026-10-23T13:49:23.5485096Z"
@@ -67,7 +67,7 @@
         "Missing": 0,
         "Reporters": 0,
         "Table": "CN/tables/CN_12759934.json",
-        "TableSha256": "c1e619e2f91438b3bf2088f96cbe87c5fc3535c04587ff8de416d9a7d148a9b6",
+        "TableSha256": "5123eb9382ce8ca291fe9621d3c082cd3c39c84db568459331c317f1c5b5d2df",
         "Descriptor": "CN/descriptors/CN_12759934.json.gz",
         "DescriptorSha256": "251e58bcf2321c7a506490d743867c5d254a64ebfd63634ae3158bb81ff8aff4",
         "PublishedAt": "2026-10-23T13:49:23.5680676Z"
@@ -81,7 +81,7 @@
         "Missing": 0,
         "Reporters": 0,
         "Table": "CN/tables/CN_12779415.json",
-        "TableSha256": "1188bfab58d37efb7d4ec20c3138d43f36d03dbeab77e2e1a4365e03e00268c5",
+        "TableSha256": "21b74f058a7a47cece9f0f932ff2f4f76087a90f899694cd063da2856e3d0908",
         "Descriptor": "CN/descriptors/CN_12779415.json.gz",
         "DescriptorSha256": "74246850b349cdb4c8fe27b7b3b32357eb23e2f2e4b5f39b6daf455c061f41b4",
         "PublishedAt": "2026-10-23T13:49:23.5886149Z"
@@ -95,7 +95,7 @@
         "Missing": 0,
         "Reporters": 0,
         "Table": "CN/tables/CN_12880711.json",
-        "TableSha256": "e5c77a134c67fd121ed094cf6239f337f22bee4cd46e00be949d168b64f0e9c5",
+        "TableSha256": "997335ce841c0a202ae02389b3bdf850f652bba83520368fe4014c28ce889cef",
         "Descriptor": "CN/descriptors/CN_12880711.json.gz",
         "DescriptorSha256": "61e02aee3838110ec09a33f7af685b4619ef79818e1e456d07158fce05261722",
         "PublishedAt": "2026-10-23T13:49:23.6083916Z"
@@ -109,7 +109,7 @@
         "Missing": 0,
         "Reporters": 0,
         "Table": "CN/tables/CN_12924523.json",
-        "TableSha256": "b44ed135e37b993b1f6d49b21316f449a286790afa4a9de33b776fc7f3bcb887",
+        "TableSha256": "b4ca07616cf80727bb574e1f03a213e6d2cb67cef824ad38ab552971bb5ce01e",
         "Descriptor": "CN/descriptors/CN_12924523.json.gz",
         "DescriptorSha256": "1d4e579018f6855f896f943762d34aa52a6b57a0fc69684888b1441ee48dcf8e",
         "PublishedAt": "2026-10-23T13:49:23.6276672Z"
@@ -123,7 +123,7 @@
         "Missing": 0,
         "Reporters": 0,
         "Table": "CN/tables/CN_13328194.json",
-        "TableSha256": "0962bde7bd8bc15d1e854b85bde7c3f5665969f97295e624e5bbdc5422d20b22",
+        "TableSha256": "ad019bcb12e1e6c2acf79f63512467c5d8c0635ea54c24d6ed92021243224281",
         "Descriptor": "CN/descriptors/CN_13328194.json.gz",
         "DescriptorSha256": "8ced7cc13b2f79ee5dcd9191d284c49760f46190481823bb89ab2d6a8493adf6",
         "PublishedAt": "2026-10-23T13:49:23.6484518Z"
@@ -137,7 +137,7 @@
         "Missing": 0,
         "Reporters": 0,
         "Table": "CN/tables/CN_13474484.json",
-        "TableSha256": "50eba4c32c7603ef2a8973d53d5dd3de5eee5a1603ba388ff55fee155b4cefa0",
+        "TableSha256": "d9cf90a3c292d8be23c5538b33164c11416d63ddf56259f9f1ad440cad2994e4",
         "Descriptor": "CN/descriptors/CN_13474484.json.gz",
         "DescriptorSha256": "c6423d1337c645a96d4dc2e0964a3eb777b8a6728fb96ec844e47a0563237d37",
         "PublishedAt": "2026-10-23T13:49:23.6707759Z"
@@ -151,7 +151,7 @@
         "Missing": 0,
         "Reporters": 0,
         "Table": "CN/tables/CN_13592067.json",
-        "TableSha256": "5b2f80d4d5f37f640015ad3b462ff92982f8fd220c1e508f8829c083d3389c80",
+        "TableSha256": "a587e5bdb79fbe98e6fd42ba4928d2d5f89125fb49c6f68d6d366934c9149884",
         "Descriptor": "CN/descriptors/CN_13592067.json.gz",
         "DescriptorSha256": "771b168b0faf70151474fc3641fe13b69ea4738abedb0664bdf1e7fa0bee61c2",
         "PublishedAt": "2026-10-23T13:49:23.6911811Z"
@@ -165,7 +165,7 @@
         "Missing": 0,
         "Reporters": 0,
         "Table": "CN/tables/CN_14006085.json",
-        "TableSha256": "e193ee9214a55d022fbe24d81681e026620fbfb3489bd7dc632ae673b1e0f0db",
+        "TableSha256": "838c0133f3591e4f9ce7746ab3b582929114fdee7ea2e51f081bb18e4d0fadac",
         "Descriptor": "CN/descriptors/CN_14006085.json.gz",
         "DescriptorSha256": "3940e3e25a46484e72f2c418ca60427c391fc5882fc888d98e3edde0ac915943",
         "PublishedAt": "2026-10-23T13:49:23.7118913Z"
@@ -179,7 +179,7 @@
         "Missing": 0,
         "Reporters": 0,
         "Table": "CN/tables/CN_14101351.json",
-        "TableSha256": "582949c3f275a9998af54922a559c5bb235cd7870eb3f69f1425087a1ef834b0",
+        "TableSha256": "b6ead4f408b9b485fe550572ce89c8825126d7a01171e5e1e292d9acc3a4759b",
         "Descriptor": "CN/descriptors/CN_14101351.json.gz",
         "DescriptorSha256": "09abd522051f255d77ba2080e7cbff7bfd5c0ba08b2fa8da2378285e30caf8e8",
         "PublishedAt": "2026-10-23T13:49:23.7330626Z"
